@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# reference data
+/Refernce_data
+TASKS.md
+GearGuard The Ultimate Maintenance Tracker.pdf
+GearGuard_ The Ultimate Maintenance Tracker - 8 hours.png
