@@ -45,3 +45,5 @@ next-env.d.ts
 TASKS.md
 GearGuard The Ultimate Maintenance Tracker.pdf
 GearGuard_ The Ultimate Maintenance Tracker - 8 hours.png
+
+/lib/generated/prisma
