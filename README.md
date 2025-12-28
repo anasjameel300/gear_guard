@@ -101,7 +101,7 @@ gear_guard/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/anasjameel300/gear_guard.git
+   git clone https://github.com/anasjameel300/gear_guard
    cd gear_guard
    ```
 
